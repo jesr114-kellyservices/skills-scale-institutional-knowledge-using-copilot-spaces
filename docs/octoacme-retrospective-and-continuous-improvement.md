@@ -31,3 +31,6 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+## Ownership
+The PM facilitates retrospectives and owns action item tracking. Individual team members own their assigned action items. The Technical Writer updates process docs when retrospective actions result in process changes. See [RACI & Ownership](octoacme-raci-ownership.md) for the full retrospective ownership table.
