@@ -41,3 +41,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Ownership
+See [RACI & Ownership](octoacme-raci-ownership.md) for the full planning ownership table. Key owners: PdM owns backlog prioritization; BA + PdM define acceptance criteria; QA owns the test plan; PM owns the release plan and risk register.

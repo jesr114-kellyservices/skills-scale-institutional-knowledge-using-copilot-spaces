@@ -40,3 +40,6 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+## Ownership
+See [RACI & Ownership](octoacme-raci-ownership.md) for decision authority on escalations and risk ownership. The PM owns the risk register and weekly status reports; the PdM owns scope-change decisions; the Sponsor owns business-impacting escalations.

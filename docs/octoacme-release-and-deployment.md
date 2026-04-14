@@ -36,3 +36,6 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Ownership & Templates
+The PM owns the release go/no-go decision; QA owns pre-release sign-off; the Technical Writer owns release notes. Use the [Release Readiness Checklist](octoacme-release-readiness-checklist.md) for structured pre-release verification. See [RACI & Ownership](octoacme-raci-ownership.md) for the full release decision authority table.

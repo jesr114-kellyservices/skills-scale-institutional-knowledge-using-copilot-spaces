@@ -38,3 +38,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Ownership
+See [RACI & Ownership](octoacme-raci-ownership.md) for the full execution ownership table. Key owners: PM facilitates standups and owns the risk register; Developers own feature delivery; QA owns test execution and defect filing; UX Designer reviews design fidelity; Technical Writer maintains documentation.

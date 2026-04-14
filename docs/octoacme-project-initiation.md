@@ -36,6 +36,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
 
+## Ownership
+See [RACI & Ownership](octoacme-raci-ownership.md) for the full artifact ownership table. At initiation, the Business Analyst drafts the one-pager (with PdM input); the PM identifies stakeholders; the Sponsor / Product Leadership approves the go/no-go gate.
+
 ## Decision Gate
 Move to planning when:
 - Success metrics are clear
